@@ -1,4 +1,5 @@
-<img src="https://img.shields.io/badge/#262577?style=flat-square&logo=CentOS&logoColor=white"/></a>&nbsp 
+<img alt="CentOS" src ="https://img.shields.io/badge/CentOS-262577.svg?&style=for-the-badge&logo=CentOS&logoColor=purple"/>
+
 
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vidigummy)
