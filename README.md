@@ -1,4 +1,4 @@
-<img alt="CentOS" src ="https://img.shields.io/badge/CentOS-262577.svg?&style=for-the-badge&logo=CentOS&logoColor=purple"/>
+<img alt="CentOS" src ="https://img.shields.io/badge/CentOS-262577.svg?&style=for-the-badge&logo=CentOS&logoColor=white"/>
 
 
 
