@@ -1,3 +1,6 @@
+<img src="https://img.shields.io/badge/#262577?style=flat-square&logo=CentOS&logoColor=white"/></a>&nbsp 
+
+
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vidigummy)
 
 ![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=vidigummy&show_icons=true)
