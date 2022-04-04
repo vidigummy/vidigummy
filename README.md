@@ -1,4 +1,4 @@
-<h1>Hi, I'm vidigummy!</h1>
+<h1>I'm vidigummy!</h1>
 
 Korea AeroSpace Univ. Software Department (2017.03 ~ 2023.02) <br>
 Soundgram Part-time SystemOps + PM (2021.04 ~ 2022.03) <br>
