@@ -1,6 +1,6 @@
 <h1>I'm vidigummy!</h1>
 
-Korea AeroSpace Univ. Software Department (2017.03 ~ 2023.02) <br>
+Korea AeroSpace Univ. Software Department Undergraduate (2017.03 ~ 2023.02) <br>
 Soundgram Part-time SystemOps + PM (2021.04 ~ 2022.03) <br>
 Korea AeroSpace Univ. Software Department 7th Student Council vice president (2020.12 ~ 2021.12) <br>
 Korea AeroSpace Univ. Technology Startup Crew SEED 7th Head (2021.01 ~ 2022.01) <br>
