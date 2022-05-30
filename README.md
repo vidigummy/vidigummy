@@ -1,6 +1,6 @@
 <h1>I'm vidigummy!</h1>
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=ffb88e&height=300&section=header&text=WELCOME&fontSize=90&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=soft&color=4BAF4B&height=300&section=header&text=VIDIGUMMY&fontSize=90&animation=scaleIn)
 <br>
 Korea AeroSpace Univ. Software Department Undergraduate (2017.03 ~ 2023.02) <br>
 Soundgram Part-time SystemOps + PM (2021.04 ~ 2022.03) <br>
