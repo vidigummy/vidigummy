@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=288C28&height=300&section=header&text=VIDIGUMMY&fontSize=90&animation=scaleOut)
+![header](https://capsule-render.vercel.app/api?type=soft&color=288C28&height=300&section=header&text=VIDIGUMMY&fontSize=90&animation=scaleIn)
 <br>
 Korea AeroSpace Univ. Software Department Undergraduate (2017.03 ~ 2023.02) <br>
 Soundgram Part-time SystemOps + PM (2021.04 ~ 2022.03) <br>
