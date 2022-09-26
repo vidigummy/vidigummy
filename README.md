@@ -23,8 +23,6 @@ Software Maestro 13th trainee (2022.04 ~ ) <br>
 
 <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white"/> <img alt="JAVA" src ="https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=white"/>
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vidigummy)
-
 
 <h1>GitHubState</h1>
 
