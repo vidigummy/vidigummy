@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=288C28&height=300&section=header&text=VIDIGUMMY&fontSize=90&animation=scaleIn)
 <br>
 Korea AeroSpace Univ. Software Department Undergraduate (2017.03 ~ 2023.02) <br>
-Soundgram Part-time SystemOps + PM (2021.04 ~ 2022.03) <br>
+Soundgram Part-time SysOp + PM (2021.04 ~ 2022.03) <br>
 Korea AeroSpace Univ. Software Department 7th Student Council vice president (2020.12 ~ 2021.12) <br>
 Korea AeroSpace Univ. Technology Startup Crew SEED 7th Head (2021.01 ~ 2022.01) <br>
 Software Maestro 13th trainee (2022.04 ~ ) <br>
