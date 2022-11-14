@@ -29,13 +29,13 @@ Software Maestro 13th trainee (2022.04 ~ ) <br>
 
 <h1>Award</h1>
 
-2018 Korea AeroSpace Univ. Startup Idea Contest 4th prise.
+2018 Korea AeroSpace Univ. Startup Idea Contest 4th place.
 <br>
-2020 Korea AeroSpace Univ. 4th Industrial revolution Contest 3rd prise.
+2020 Korea AeroSpace Univ. 4th Industrial revolution Contest 3rd place.
 <br>
-2020 Korea AeroSpace Univ. Startup IOT MakerThon 3rd prise.
+2020 Korea AeroSpace Univ. Startup IOT MakerThon 2rd place.
 <br>
-2021 Korea AeroSpace Univ. industry-university cooperation 1st prise.
+2021 Korea AeroSpace Univ. industry-university cooperation 1st place.
 <br>
 
 
