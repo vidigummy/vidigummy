@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=288C28&height=300&section=header&text=VIDIGUMMY&fontSize=90&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=288C28&height=300&section=header&text=VIDIGUMMY&fontSize=90&fontColor=1428A0&animation=Transparent)
 <br>
 <img alt="Samsung SDS" src ="https://img.shields.io/badge/Samsung SDS-1428A0.svg?&style=for-the-badge&logo=Samsung&logoColor=white"/>
 <br>
