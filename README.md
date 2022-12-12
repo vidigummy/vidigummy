@@ -6,7 +6,7 @@ Korea AeroSpace Univ. Software Department Undergraduate (2017.03 ~ 2023.02) <br>
 Soundgram Part-time SysOp + PM (2021.04 ~ 2022.03) <br>
 Korea AeroSpace Univ. Software Department 7th Student Council vice president (2020.12 ~ 2021.12) <br>
 Korea AeroSpace Univ. Technology Startup Crew SEED 7th Head (2021.01 ~ 2022.01) <br>
-Software Maestro 13th trainee (2022.04 ~ ) <br>
+Software Maestro 13th trainee (2022.04 ~ 2022.11) <br>
 
 <a href = "https://vidigummy.notion.site/DongIn-Ryu-ac92ce9e9de9409fa621391f264df077"> <img alt="Notion" src ="https://img.shields.io/badge/Notion-FFFFFF.svg?&style=for-the-badge&logo=Notion&logoColor=black"/></a><a href = "https://vidi-programming.tistory.com/"> <img alt="Blog" src ="https://img.shields.io/badge/Blog-FF5722.svg?&style=for-the-badge&logo=TV Time&logoColor=white"/></a>
 <h1>MainSkills</h1>
